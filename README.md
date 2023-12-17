@@ -1,3 +1,3 @@
 # no_game
-i'l have no pyton proekt.
-this is pyton proect.
+i'l have no pyton progect.
+this is pyton progect.
